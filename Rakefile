@@ -7,6 +7,6 @@ require 'rake/testtask'
 task :default => :test
 
 task :test do
-  ruby '01.rb'
+  ruby '04.rb'
 end
 
